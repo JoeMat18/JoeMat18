@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @JoeMat18
+# 👋 Hi, I’m @JoeMat18
 
-<!---
-JoeMat18/JoeMat18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a beginner programmer with a bit of experience, and I’m always open to learning and coding together! Here, I work on LeetCode problems, solving questions step-by-step and explaining each solution for other beginners to follow along.
